@@ -8,11 +8,11 @@ The WellyHacks team want your time at this event to run as smoothly as possible.
 
 ### Frequently Asked Questions
 
-Who can sign up? Where do I sign up?
+Who can sign up? Where do I sign up? When is it?
 
 ----------------------
 
-Any high school student is eligible to sign up, but spaces are very limited. People who have never done a hackathon before may be prioritised so they can gain experience.
+Any high school student is eligible to sign up, but spaces are very limited. People who have never done a hackathon before may be prioritised so they can gain experience. It will be on November 23 and 24th. 
 
 What will I need to bring?
 
@@ -55,4 +55,3 @@ We're here to help, ask them to reach out to us through email or on Instagram be
 
 [wellyhacks@gmail.com](mailto:wellyhacks@gmail.com)
 [@wellyhacks on Instagram](https://www.instagram.com/wellyhacks)
-
